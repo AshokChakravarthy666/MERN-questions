@@ -1,0 +1,115 @@
+💼 Full Stack Developer Assignment – 100 Questions
+
+This assignment covers Data Structures & Algorithms (DSA), DBMS, Logical Reasoning, and MERN Stack topics.
+
+🔹 Section 1: Data Structures & Algorithms (30 Questions)
+
+1. Implement a function to reverse a linked list.
+2. Write a function to check for balanced parentheses.
+3. Find the first non-repeating character in a string.
+4. Implement binary search on a sorted array.
+5. Solve the "Two Sum" problem using HashMap.
+6. Sort an array using Merge Sort.
+7. Find the longest increasing subsequence in an array.
+8. Detect a cycle in a linked list.
+9. Implement a queue using two stacks.
+10. Find the maximum subarray sum (Kadane’s Algorithm).
+11. Count the number of set bits in an integer.
+12. Find all pairs in an array with a given sum.
+13. Check if two strings are anagrams.
+14. Convert infix expression to postfix.
+15. Find the height of a binary tree.
+16. Check if a binary tree is symmetric.
+17. Print all permutations of a string.
+18. Find the shortest path in a graph using BFS.
+19. Implement Depth First Search (DFS).
+20. Check if a number is a palindrome.
+21. Find the missing number in a given array.
+22. Count distinct elements in an array.
+23. Implement a LRU cache.
+24. Detect loop in a directed graph.
+25. Find kth smallest element in a BST.
+26. Check if an array is a rotated sorted array.
+27. Implement bubble sort without using sort().
+28. Find the longest palindrome substring.
+29. Generate all subsets of a set.
+30. Check whether a string is a valid shuffle of two strings.
+
+🔹 Section 2: DBMS & SQL (20 Questions)
+
+31. Write a SQL query to find the second highest salary.
+32. Explain 1NF, 2NF, and 3NF with examples.
+33. Design a database schema for a blog application.
+34. Write a query to list employees who joined in the last 3 months.
+35. What is the difference between DELETE, TRUNCATE, and DROP?
+36. Write a query using JOIN to combine customer and order details.
+37. What are ACID properties?
+38. Explain the difference between clustered and non-clustered index.
+39. What is a foreign key? Give an example.
+40. Write a query to count users grouped by country.
+41. What is the difference between WHERE and HAVING?
+42. Design ER diagram for an e-commerce platform.
+43. What is normalization and why is it needed?
+44. Explain the difference between SQL and NoSQL databases.
+45. Write a query to fetch top 5 salaries from a table.
+46. Explain views and their use cases.
+47. Write a query to update salary of employees by 10%.
+48. How do transactions work in SQL?
+49. Explain triggers with an example.
+50. Write a SQL query to get duplicate values from a table.
+
+🔹 Section 3: Logical Reasoning & Aptitude (20 Questions)
+
+51. If A is the father of B, and C is the sister of B, how is A related to C?
+52. Complete the series: 2, 6, 12, 20, ?
+53. A train is moving at 60 km/h. It crosses a man in 10 seconds. Find the length of the train.
+54. Solve the puzzle: I am a three-digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?
+55. If it takes 5 machines 5 minutes to make 5 parts, how long would it take 100 machines to make 100 parts?
+56. A is twice as fast as B. If B takes 20 minutes to complete a job, how long will A take?
+57. Which word doesn’t belong: Apple, Banana, Mango, Carrot?
+58. If 3x + 2 = 17, what is the value of x?
+59. How many 3-digit numbers can be formed using digits 1–9 without repetition?
+60. What comes next in the sequence: J, F, M, A, M, J, ?
+61. If the code for CAT is DBU, what is the code for DOG?
+62. A clock shows 3:15. What is the angle between the hour and minute hands?
+63. How many squares are there in a 3×3 grid?
+64. Solve: (3 + 6) × (5 + 4) ÷ 3
+65. If Monday is the first day of the month, what day is the 31st?
+66. Which number is different: 121, 144, 169, 196, 222?
+67. Rearrange the letters "RAPET" to make a meaningful word.
+68. Find the odd one out: 2, 3, 5, 7, 11, 13, 15, 17.
+69. If a cube has 6 faces, how many edges does it have?
+70. How many diagonals does a hexagon have?
+
+🔹 Section 4: MERN Stack (30 Questions)
+
+71. What is the MERN stack and why is it popular?
+72. Explain how MongoDB differs from traditional SQL databases.
+73. Create a REST API with Express and Node.js for a todo app.
+74. How do you connect MongoDB to Node.js using Mongoose?
+75. Explain the use of middleware in Express.js.
+76. How does the useEffect hook work in React?
+77. What are React Hooks and name a few.
+78. Explain the difference between state and props in React.
+79. What is the purpose of Redux in React apps?
+80. How do you handle form validation in React?
+81. Create a simple login system using JWT in Node.js.
+82. What is the virtual DOM in React?
+83. How is routing handled in a React app?
+84. Difference between class and functional components in React.
+85. How do you deploy a MERN stack app?
+86. What are CORS and how do you handle them?
+87. How do you upload files using Express and Multer?
+88. What is the role of package.json in Node.js?
+89. How do you manage environment variables in Node?
+90. Explain how to structure folders for a MERN project.
+91. What is useContext and when would you use it?
+92. How do you secure REST APIs?
+93. How does authentication and authorization work in MERN stack?
+94. How do you implement pagination in MongoDB?
+95. How can you optimize performance in a React app?
+96. How do you handle 404 and error pages in React Router?
+97. What are the key differences between PUT and PATCH in REST?
+98. Explain server-side rendering vs client-side rendering.
+99. What is component reusability in React?
+100. How do you fetch data from an API in React?
